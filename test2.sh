@@ -1,7 +1,1 @@
-qwwwwww
-qwwwwwww
-qwwwww
-qwwwwwwwww
-qwwwwwwww
-qwwwwwwwww
-
+This file is creatde from client6.2
